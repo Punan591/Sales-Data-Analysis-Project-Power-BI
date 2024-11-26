@@ -23,6 +23,7 @@ Designed intuitive charts such as bar graphs, pie charts, and time series analys
 Sales Forecasting: Integrated Power BI's forecasting tools to project future sales trends, enabling strategic planning.
 
 📊 Dashboard Features:
+
 Overall Sales Metrics: Total sales, profit, quantity sold, and average delivery time visualized in an executive summary.
 
 Sales by Category and Sub-Category: Deep-dive into sales trends for Office Supplies, Technology, Furniture, and more.
