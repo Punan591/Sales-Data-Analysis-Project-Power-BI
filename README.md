@@ -1,4 +1,5 @@
 Store Sales Performance Analysis Dashboard
+
 This Power BI project showcases my expertise in data analysis and visualization by providing actionable insights into store sales performance. Designed to demonstrate a deep understanding of business metrics and trends, this project delivers a visually engaging dashboard to help businesses make data-driven decisions.
 
 🛠️ Key Highlights:
